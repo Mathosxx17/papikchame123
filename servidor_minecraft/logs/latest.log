@@ -1,0 +1,266 @@
+[01:55:03] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[01:55:05] [ServerMain/INFO]: Loaded 1461 recipes
+[01:55:05] [ServerMain/INFO]: Loaded 1574 advancements
+[01:55:05] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[01:55:05] [Server thread/INFO]: Loading properties
+[01:55:05] [Server thread/INFO]: Default game type: SURVIVAL
+[01:55:05] [Server thread/INFO]: Generating keypair
+[01:55:06] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:55:06] [Server thread/INFO]: Using epoll channel type
+[01:55:06] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:55:06] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:55:06] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:55:06] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:55:06] [Server thread/INFO]: Preparing level "world"
+[01:55:06] [Server thread/INFO]: Loading 0 persistent chunks...
+[01:55:06] [Server thread/INFO]: Preparing spawn area: 100%
+[01:55:06] [Server thread/INFO]: Time elapsed: 12 ms
+[01:55:06] [Server thread/INFO]: Done (0.427s)! For help, type "help"
+[01:55:25] [Server thread/INFO]: XxMatos15[/172.28.131.63:49276] logged in with entity id 64 at (-4342.6979302555765, 110.49520087700593, -278.12508075351695)
+[01:55:25] [Server thread/INFO]: XxMatos15 joined the game
+[01:57:06] [Server thread/INFO]: Ram_Tz[/172.28.72.140:50687] logged in with entity id 850 at (-4483.434893437776, -12.580000013113022, -265.30000001192093)
+[01:57:06] [Server thread/INFO]: Ram_Tz joined the game
+[01:58:28] [Server thread/WARN]: UUID of added entity already exists: ctj['Horse'/1209, l='ServerLevel[world]', x=-4608.84, y=72.00, z=-62.16]
+[02:01:02] [Server thread/INFO]: [XxMatos15: Applied enchantment Efficiency IV to XxMatos15's item]
+[02:01:18] [Server thread/INFO]: [XxMatos15: Set own game mode to Creative Mode]
+[02:01:36] [Server thread/INFO]: [XxMatos15: Set own game mode to Survival Mode]
+[02:05:26] [Server thread/INFO]: [Not Secure] <Ram_Tz> mati y cantaro se unen
+[02:06:18] [Server thread/INFO]: [Not Secure] <Ram_Tz> oe, habIaIe a matias, te quiere preguntar aIgo
+[02:06:19] [Server thread/INFO]: [Not Secure] <XxMatos15> me perdi
+[02:06:22] [Server thread/INFO]: [Not Secure] <XxMatos15> donde es la base
+[02:06:23] [Server thread/INFO]: [Not Secure] <XxMatos15> xd
+[02:06:33] [Server thread/INFO]: [Not Secure] <Ram_Tz> hazte tp
+[02:06:38] [Server thread/INFO]: [XxMatos15: Teleported XxMatos15 to Ram_Tz]
+[02:06:58] [Server thread/INFO]: [Not Secure] <Ram_Tz> oe, mati te quiere preguntar aIgo
+[02:07:01] [Server thread/INFO]: [Not Secure] <XxMatos15> ya
+[02:07:04] [Server thread/INFO]: [Not Secure] <Ram_Tz> habIaIe
+[02:12:55] [Server thread/INFO]: [Not Secure] <XxMatos15> q me able el
+[02:13:13] [Server thread/INFO]: [Not Secure] <Ram_Tz> habIaIe tu
+[02:15:21] [Server thread/INFO]: [Not Secure] <XxMatos15> el
+[02:18:23] [Server thread/INFO]: Ram_Tz lost connection: Disconnected
+[02:18:23] [Server thread/INFO]: Ram_Tz left the game
+[02:18:23] [Server thread/WARN]: handleDisconnection() called twice
+[02:18:39] [Server thread/INFO]: [XxMatos15: Set the time to 1000]
+[02:22:27] [Server thread/INFO]: XxMatos15 lost connection: Disconnected
+[02:22:27] [Server thread/INFO]: XxMatos15 left the game
+[02:23:16] [Server thread/INFO]: Ram_Tz[/172.28.72.140:63151] logged in with entity id 6899 at (-4480.757729172174, 86.0, -268.68234785730124)
+[02:23:16] [Server thread/INFO]: Ram_Tz joined the game
+[02:30:10] [Server thread/INFO]: XxMatos15[/172.28.131.63:49677] logged in with entity id 8804 at (-4477.072690033315, 70.0, -348.6666111263468)
+[02:30:10] [Server thread/INFO]: XxMatos15 joined the game
+[02:31:38] [Server thread/INFO]: [XxMatos15: Teleported XxMatos15 to Ram_Tz]
+[02:33:26] [Server thread/INFO]: [XxMatos15: Successfully filled 626 block(s)]
+[02:33:58] [Server thread/INFO]: [Not Secure] <Ram_Tz> oe, sabes que es yugar IegaI?
+[02:34:05] [Server thread/INFO]: [Not Secure] <XxMatos15> es una ayudita
+[02:34:08] [Server thread/INFO]: [Not Secure] <Ram_Tz> ya vas a empezar bro?
+[02:35:56] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-4465, y=87, z=-231} ja{x=-4464, y=86, z=-230}
+[02:36:13] [Server thread/INFO]: [Not Secure] <Ram_Tz> vengo en 7 mins
+[02:46:14] [Server thread/INFO]: [Not Secure] <Ram_Tz> oe, dice mati que Ie respondas xd
+[02:47:46] [Server thread/INFO]: Ram_Tz has made the advancement [Not Today, Thank You]
+[02:55:02] [Server thread/INFO]: [Not Secure] <XxMatos15> vuelvo
+[02:55:06] [Server thread/INFO]: [Not Secure] <XxMatos15> ya lñe respondi
+[02:55:12] [Server thread/INFO]: [XxMatos15: Set the weather to clear]
+[02:55:26] [Server thread/INFO]: [Not Secure] <Ram_Tz> que haces bro
+[02:55:37] [Server thread/INFO]: [Not Secure] <XxMatos15> comiendo
+[02:55:56] [Server thread/INFO]: [Not Secure] <Ram_Tz> v, pa eso, hace rato me diyiste que estaba comiendo ctmr
+[02:56:08] [Server thread/INFO]: [Not Secure] <XxMatos15> comiendo una fruta
+[02:56:51] [Server thread/INFO]: [Not Secure] <XxMatos15> unos 15 o 10 minutos
+[02:57:16] [Server thread/INFO]: [Not Secure] <Ram_Tz> oe, mati dice aIgo de zerotier
+[02:57:23] [Server thread/INFO]: [Not Secure] <XxMatos15> ya le pase
+[02:57:24] [Server thread/INFO]: [Not Secure] <XxMatos15> q entre
+[02:57:47] [Server thread/INFO]: [Not Secure] <Ram_Tz> oe, pero yo no Io tengo y aún así puedo entrar
+[03:01:08] [Server thread/INFO]: [Not Secure] <Ram_Tz> oe, no Ie deja
+[03:05:12] [Server thread/INFO]: [Not Secure] <XxMatos15> ns
+[03:05:16] [Server thread/INFO]: [Not Secure] <XxMatos15> no vale su pc
+[03:05:34] [Server thread/INFO]: [Not Secure] <Ram_Tz> habIaIe p, aver que hacen bro
+[03:05:50] [Server thread/INFO]: [Not Secure] <XxMatos15> ya le pase el ccodigo zerotier
+[03:05:52] [Server thread/INFO]: [Not Secure] <XxMatos15> no responde
+[03:16:28] [Server thread/INFO]: [Not Secure] <XxMatos15> ya aplanaste
+[03:16:34] [Server thread/INFO]: [Not Secure] <XxMatos15> falta aplanar
+[03:16:43] [Server thread/INFO]: XxMatos15 fell from a high place
+[03:16:52] [Server thread/INFO]: [Not Secure] <Ram_Tz> XDDD
+[03:17:24] [Server thread/INFO]: pingaparaangel[/172.28.117.248:64965] logged in with entity id 17128 at (127.5, 67.0, 261.5)
+[03:17:24] [Server thread/INFO]: pingaparaangel joined the game
+[03:17:58] [Server thread/INFO]: [Not Secure] <pingaparaangel> q bioma mas basura
+[03:18:54] [Server thread/INFO]: [Not Secure] <Ram_Tz> estás en eI desierto?
+[03:19:10] [Server thread/INFO]: [Not Secure] <pingaparaangel> si
+[03:19:15] [Server thread/INFO]: [Not Secure] <pingaparaangel> recienentro ps
+[03:21:16] [Server thread/INFO]: [Not Secure] <Ram_Tz> nosotros estamos lejos del spawn
+[03:21:38] [Server thread/INFO]: [Not Secure] <pingaparaangel> quien hizo el server
+[03:21:46] [Server thread/INFO]: [Not Secure] <Ram_Tz> yerson
+[03:21:54] [Server thread/INFO]: [Not Secure] <pingaparaangel> dile q me haga tp p
+[03:22:30] [Server thread/INFO]: [Not Secure] <Ram_Tz> está haciendo aIgo y creo que no hay comandos, cuando vuelva Ie digo
+[03:22:57] [Server thread/INFO]: pingaparaangel has made the advancement [Stone Age]
+[03:23:38] [Server thread/INFO]: pingaparaangel has made the advancement [Getting an Upgrade]
+[03:25:17] [Server thread/INFO]: pingaparaangel has made the advancement [Acquire Hardware]
+[03:25:47] [Server thread/INFO]: pingaparaangel has made the advancement [Isn't It Iron Pick]
+[03:26:38] [Server thread/INFO]: pingaparaangel has made the advancement [Monster Hunter]
+[03:30:08] [Server thread/INFO]: pingaparaangel was killed by Witch using magic
+[03:30:40] [Server thread/INFO]: [Not Secure] <Ram_Tz> si quiere te paso cords, pero estamos lejisimos
+[03:31:02] [Server thread/INFO]: [Not Secure] <pingaparaangel> pasa
+[03:31:53] [Server thread/INFO]: [Not Secure] <Ram_Tz> -4455.641 / 85.00000 / -327.650
+[03:32:42] [Server thread/INFO]: pingaparaangel was slain by Spider
+[03:37:09] [Server thread/INFO]: [Not Secure] <Ram_Tz> que fue con mati
+[03:37:23] [Server thread/INFO]: [Not Secure] <XxMatos15> no responde
+[03:37:27] [Server thread/INFO]: [Not Secure] <Ram_Tz> aea
+[03:37:40] [Server thread/INFO]: [Not Secure] <pingaparaangel> mano
+[03:37:44] [Server thread/INFO]: [Not Secure] <pingaparaangel> haz,e tp
+[03:37:47] [Server thread/INFO]: [Not Secure] <Ram_Tz> oe. ayuda a apIanar p
+[03:37:50] [Server thread/INFO]: [Not Secure] <pingaparaangel> me estan kchando en la rabin
+[03:37:57] [Server thread/INFO]: [Not Secure] <XxMatos15> ya
+[03:38:24] [Server thread/INFO]: [Not Secure] <Ram_Tz> acá oe
+[03:38:43] [Server thread/INFO]: [XxMatos15: Successfully filled 1413 block(s)]
+[03:38:49] [Server thread/INFO]: [Not Secure] <XxMatos15> listo
+[03:39:04] [Server thread/INFO]: [Not Secure] <Ram_Tz> ayuda más p, mi paIa está en Ia úItimas
+[03:39:27] [Server thread/INFO]: [XxMatos15: Successfully filled 7162 block(s)]
+[03:39:31] [Server thread/INFO]: [Not Secure] <XxMatos15> ay o mas
+[03:39:40] [Server thread/INFO]: [Not Secure] <Ram_Tz> ahi homas,
+[03:39:47] [Server thread/INFO]: pingaparaangel was slain by Zombie
+[03:39:52] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=0, y=0, z=0} ja{x=121, y=66, z=259}
+[03:39:52] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=0, y=0, z=0} ja{x=121, y=66, z=258}
+[03:39:54] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=0, y=0, z=0} ja{x=121, y=66, z=247}
+[03:39:55] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=0, y=0, z=0} ja{x=121, y=66, z=248}
+[03:39:55] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=0, y=0, z=0} ja{x=121, y=66, z=247}
+[03:39:55] [Server thread/INFO]: [XxMatos15: Teleported pingaparaangel to XxMatos15]
+[03:40:00] [Server thread/INFO]: [Not Secure] <Ram_Tz> haz tp a anyeIo pa que ayude a taIar p
+[03:40:07] [Server thread/INFO]: [Not Secure] <XxMatos15> ya l ise
+[03:40:10] [Server thread/INFO]: [Not Secure] <Ram_Tz> necesitamos madera bri
+[03:40:19] [Server thread/INFO]: [Not Secure] <pingaparaangel> puta me haces tp cuando ya mori
+[03:40:32] [Server thread/INFO]: [Not Secure] <XxMatos15> d
+[03:40:46] [Server thread/INFO]: [Not Secure] <Ram_Tz> XD. en eI cofre hay diamantes y hierro, agarra, si queres, pero no todo
+[03:41:36] [Server thread/INFO]: pingaparaangel has made the advancement [Diamonds!]
+[03:41:57] [Server thread/INFO]: pingaparaangel has made the advancement [Suit Up]
+[03:43:37] [Server thread/INFO]: [Not Secure] <XxMatos15> cuanto de madera qiere
+[03:43:38] [Server thread/INFO]: [Not Secure] <XxMatos15> s
+[03:43:49] [Server thread/INFO]: pingaparaangel has made the advancement [Sweet Dreams]
+[03:43:55] [Server thread/INFO]: [Not Secure] <XxMatos15> ABLA
+[03:43:56] [Server thread/INFO]: [Not Secure] <Ram_Tz> 4 stacks más
+[03:43:56] [Server thread/INFO]: [Not Secure] <XxMatos15> ABLA
+[03:43:57] [Server thread/INFO]: [Not Secure] <XxMatos15> ABLA
+[03:43:59] [Server thread/INFO]: [Not Secure] <XxMatos15> ya
+[03:44:40] [Server thread/INFO]: [Not Secure] <pingaparaangel> zzz
+[03:44:50] [Server thread/INFO]: [Not Secure] <Ram_Tz> duerme oe
+[03:44:54] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-4439, y=86, z=-306} ja{x=-4440, y=86, z=-307}
+[03:44:54] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-4439, y=86, z=-306} ja{x=-4440, y=86, z=-307}
+[03:45:02] [Server thread/INFO]: XxMatos15 was blown up by Creeper
+[03:45:08] [Server thread/INFO]: [Not Secure] <pingaparaangel> xdddd
+[03:45:39] [Server thread/INFO]: [Not Secure] <XxMatos15> me espeladeraon 4 crepers
+[03:45:47] [Server thread/INFO]: [Not Secure] <Ram_Tz> XDDD
+[03:45:59] [Server thread/INFO]: [Not Secure] <Ram_Tz> duerme oe
+[03:47:09] [Server thread/INFO]: [Not Secure] <pingaparaangel> cual es la chamba
+[03:47:28] [Server thread/INFO]: [Not Secure] <Ram_Tz> rellenar espacios
+[03:48:58] [Server thread/INFO]: [Not Secure] <Ram_Tz> hasta acá
+[03:49:02] [Server thread/INFO]: [Not Secure] <pingaparaangel> uno por uno o solo por encima una capa
+[03:49:07] [Server thread/INFO]: [Not Secure] <Ram_Tz> soIo pon una capa de tierra
+[03:49:13] [Server thread/INFO]: [Not Secure] <pingaparaangel> ya
+[03:49:24] [Server thread/INFO]: [Not Secure] <Ram_Tz> osea que quede plano
+[03:49:41] [Server thread/INFO]: [Not Secure] <pingaparaangel> 0
+[03:49:45] [Server thread/WARN]: Ram_Tz moved too quickly! -0.1452992387849008,-10.596058325307382,1.7909373909711803
+[03:49:57] [Server thread/INFO]: [Not Secure] <pingaparaangel> con la tierra del cofre?
+[03:50:10] [Server thread/INFO]: [Not Secure] <Ram_Tz> saca tierra de donde sea xd
+[03:56:41] [Server thread/INFO]: [XxMatos15: Set own game mode to Creative Mode]
+[03:56:57] [Server thread/INFO]: XxMatos15 has made the advancement [Best Friends Forever]
+[03:57:10] [Server thread/INFO]: [XxMatos15: Set own game mode to Survival Mode]
+[03:58:44] [Server thread/INFO]: [XxMatos15: Set own game mode to Creative Mode]
+[03:58:54] [Server thread/INFO]: [XxMatos15: Set own game mode to Survival Mode]
+[04:00:28] [Server thread/INFO]: [Not Secure] <XxMatos15> hay 4 stack
+[04:00:32] [Server thread/INFO]: [Not Secure] <XxMatos15> q mas
+[04:00:55] [Server thread/INFO]: [Not Secure] <Ram_Tz> pura rellenar con tierra y tenemos terreno pa construir
+[04:01:04] [Server thread/INFO]: [Not Secure] <XxMatos15> q?
+[04:01:24] [Server thread/INFO]: [Not Secure] <Ram_Tz> rellenar agujeros nomas
+[04:01:30] [Server thread/INFO]: [Not Secure] <XxMatos15> y este
+[04:01:40] [Server thread/INFO]: [Not Secure] <Ram_Tz> faIta ps
+[04:01:42] [Server thread/INFO]: [Not Secure] <XxMatos15> esos 2 bloques
+[04:01:45] [Server thread/INFO]: [Not Secure] <XxMatos15> lo aplano ?
+[04:01:50] [Server thread/INFO]: [Not Secure] <Ram_Tz> no
+[04:02:01] [Server thread/INFO]: [Not Secure] <XxMatos15> se aplana o se rellena de bloques
+[04:02:11] [Server thread/INFO]: XxMatos15 has made the advancement [The Parrots and the Bats]
+[04:02:29] [Server thread/INFO]: [Not Secure] <Ram_Tz> vamos a rellenar con una capa de tierra nomas
+[04:06:18] [Server thread/INFO]: [XxMatos15: Successfully filled 916 block(s)]
+[04:07:05] [Server thread/INFO]: [XxMatos15: Set own game mode to Creative Mode]
+[04:07:20] [Server thread/INFO]: [XxMatos15: Set own game mode to Survival Mode]
+[04:08:06] [Server thread/INFO]: [Not Secure] <pingaparaangel> tienen mas tierra?
+[04:08:23] [Server thread/INFO]: [Not Secure] <Ram_Tz> yerson tiene creo
+[04:08:33] [Server thread/INFO]: [Not Secure] <XxMatos15> no
+[04:08:51] [Server thread/INFO]: [XxMatos15: Successfully filled 4753 block(s)]
+[04:09:24] [Server thread/INFO]: [XxMatos15: Set own game mode to Creative Mode]
+[04:09:35] [Server thread/INFO]: [XxMatos15: Set own game mode to Survival Mode]
+[04:10:25] [Server thread/INFO]: [Not Secure] <pingaparaangel> ya fue mñn entro
+[04:10:28] [Server thread/INFO]: pingaparaangel lost connection: Disconnected
+[04:10:28] [Server thread/INFO]: pingaparaangel left the game
+[04:10:28] [Server thread/INFO]: [XxMatos15: Applied enchantment Efficiency I to XxMatos15's item]
+[04:10:52] [Server thread/INFO]: [Not Secure] <Ram_Tz> bro, apIana esto, ven
+[04:12:08] [Server thread/INFO]: [XxMatos15: Successfully filled 15614 block(s)]
+[04:12:18] [Server thread/INFO]: [Not Secure] <Ram_Tz> xdd
+[04:12:35] [Server thread/INFO]: [Not Secure] <Ram_Tz> quia un poco Ios costados, me equivoqué
+[04:13:06] [Server thread/INFO]: [Not Secure] <XxMatos15> cual
+[04:13:21] [Server thread/INFO]: [Not Secure] <Ram_Tz> que no haiga paredes bro xd
+[04:15:07] [Server thread/INFO]: [XxMatos15: Successfully filled 10289 block(s)]
+[04:15:12] [Server thread/INFO]: [Not Secure] <Ram_Tz> xdd
+[04:16:27] [Server thread/INFO]: [XxMatos15: Successfully filled 4949 block(s)]
+[04:17:08] [Server thread/INFO]: [XxMatos15: Successfully filled 9807 block(s)]
+[04:17:31] [Server thread/INFO]: [XxMatos15: Set own game mode to Creative Mode]
+[04:17:42] [Server thread/INFO]: [XxMatos15: Set own game mode to Survival Mode]
+[04:18:42] [Server thread/INFO]: [Not Secure] <Ram_Tz> un chiquenyoquei
+[04:19:14] [Server thread/INFO]: [XxMatos15: Set the time to 1000]
+[04:19:18] [Server thread/INFO]: [Not Secure] <XxMatos15> q es eso
+[04:20:34] [Server thread/INFO]: [XxMatos15: Successfully filled 1579 block(s)]
+[04:23:08] [Server thread/INFO]: [XxMatos15: Successfully filled 4308 block(s)]
+[04:24:13] [Server thread/INFO]: [XxMatos15: Successfully filled 1182 block(s)]
+[04:24:47] [Server thread/INFO]: [XxMatos15: Successfully filled 72 block(s)]
+[04:24:53] [Server thread/INFO]: [Not Secure] <XxMatos15> asi?
+[04:25:08] [Server thread/INFO]: [Not Secure] <Ram_Tz> si,, ahí nomas
+[04:25:31] [Server thread/INFO]: [XxMatos15: Successfully filled 1057 block(s)]
+[04:26:24] [Server thread/INFO]: [XxMatos15: Successfully filled 1502 block(s)]
+[04:27:16] [Server thread/INFO]: [XxMatos15: Successfully filled 1037 block(s)]
+[04:28:18] [Server thread/INFO]: [XxMatos15: Successfully filled 1267 block(s)]
+[04:28:39] [Server thread/INFO]: Ram_Tz has made the advancement [Hot Stuff]
+[04:29:06] [Server thread/INFO]: [XxMatos15: Successfully filled 276 block(s)]
+[04:29:45] [Server thread/INFO]: [XxMatos15: Successfully filled 1181 block(s)]
+[04:32:07] [Server thread/INFO]: [XxMatos15: Successfully filled 146 block(s)]
+[04:33:06] [Server thread/INFO]: [XxMatos15: Set own game mode to Creative Mode]
+[04:33:30] [Server thread/INFO]: [XxMatos15: Set own game mode to Survival Mode]
+[04:38:51] [Server thread/INFO]: [XxMatos15: Set the weather to clear]
+[04:39:03] [Server thread/INFO]: [XxMatos15: Set own game mode to Creative Mode]
+[04:40:49] [Server thread/INFO]: [XxMatos15: Set own game mode to Survival Mode]
+[04:41:44] [Server thread/INFO]: [XxMatos15: Set own game mode to Creative Mode]
+[04:42:05] [Server thread/INFO]: [XxMatos15: Set own game mode to Survival Mode]
+[04:42:29] [Server thread/INFO]: [Not Secure] <Ram_Tz> acá es mi casa bro
+[04:42:53] [Server thread/INFO]: [Not Secure] <XxMatos15> mita mita
+[04:43:09] [Server thread/INFO]: [Not Secure] <Ram_Tz> Ia tuya es abajo bro
+[04:43:33] [Server thread/INFO]: [Not Secure] <XxMatos15> tya
+[04:44:25] [Server thread/INFO]: XxMatos15 fell from a high place
+[04:44:36] [Server thread/INFO]: [XxMatos15: Teleported XxMatos15 to Ram_Tz]
+[04:45:12] [Server thread/WARN]: Mismatch in destroy block pos: ja{x=-4382, y=103, z=-342} ja{x=-4382, y=101, z=-343}
+[04:45:21] [Server thread/INFO]: [XxMatos15: Set own game mode to Creative Mode]
+[04:48:23] [Server thread/INFO]: Villager cyx['Villager'/46288, l='ServerLevel[world]', x=-4406.61, y=68.00, z=-338.63] died, message: 'Villager was shot by Pillager'
+[04:49:40] [Server thread/INFO]: [XxMatos15: Set own game mode to Survival Mode]
+[04:50:02] [Server thread/INFO]: Villager cyx['Villager'/46385, l='ServerLevel[world]', x=-4353.70, y=102.00, z=-311.71] died, message: 'Villager was slain by XxMatos15'
+[04:52:28] [Server thread/INFO]: [Not Secure] <XxMatos15> Q SE PUEDE ACER CON ESE
+[04:55:51] [Server thread/INFO]: [XxMatos15: Set own game mode to Creative Mode]
+[04:55:59] [Server thread/INFO]: [XxMatos15: Set own game mode to Survival Mode]
+[05:02:56] [Server thread/INFO]: [XxMatos15: Set own game mode to Creative Mode]
+[05:09:48] [Server thread/INFO]: [XxMatos15: Set own game mode to Survival Mode]
+[05:16:45] [Server thread/INFO]: [XxMatos15: Set the time to 1000]
+[05:16:49] [Server thread/INFO]: [XxMatos15: Set own game mode to Creative Mode]
+[05:49:40] [Server thread/INFO]: [XxMatos15: Set own game mode to Survival Mode]
+[05:50:35] [Server thread/INFO]: [XxMatos15: Set own game mode to Creative Mode]
+[05:51:51] [Server thread/INFO]: [XxMatos15: Set own game mode to Survival Mode]
+[05:52:33] [Server thread/INFO]: [XxMatos15: Set own game mode to Creative Mode]
+[06:05:52] [Server thread/INFO]: [XxMatos15: Set own game mode to Survival Mode]
+[06:06:17] [Server thread/INFO]: [Not Secure] <XxMatos15> mañana
+[06:06:34] [Server thread/INFO]: [Not Secure] <Ram_Tz> YAYA, a que hora
+[06:06:40] [Server thread/INFO]: [Not Secure] <XxMatos15> a q ora puedes
+[06:06:41] [Server thread/INFO]: [Not Secure] <Ram_Tz> temprano bro
+[06:06:45] [Server thread/INFO]: [Not Secure] <XxMatos15> ay avisas
+[06:06:56] [Server thread/INFO]: [Not Secure] <XxMatos15> 7 8 9 10 11 12
+[06:06:56] [Server thread/INFO]: [Not Secure] <Ram_Tz> a toda hora menos de 3 a 7
+[06:07:04] [Server thread/INFO]: [Not Secure] <XxMatos15> ya
+[06:07:13] [Server thread/INFO]: [Not Secure] <Ram_Tz> a Ias 8 p o 9
+[06:07:19] [Server thread/INFO]: [Not Secure] <Ram_Tz> am
+[06:07:22] [Server thread/INFO]: [Not Secure] <XxMatos15> ya
+[06:07:24] [Server thread/INFO]: [Not Secure] <XxMatos15> ay lo prebndo
+[06:07:26] [Server thread/INFO]: XxMatos15 lost connection: Disconnected
+[06:07:26] [Server thread/INFO]: XxMatos15 left the game
+[06:07:29] [Server thread/INFO]: Ram_Tz lost connection: Disconnected
+[06:07:29] [Server thread/INFO]: Ram_Tz left the game
+[06:08:29] [Server thread/INFO]: Server empty for 60 seconds, pausing
